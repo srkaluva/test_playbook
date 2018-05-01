@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /opt/projects/test-playbook/
+cd /opt/projects/test_playbook 
 
 
 sudo ansible-playbook test-playbook.yml
