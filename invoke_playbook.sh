@@ -3,7 +3,7 @@
 cd /opt/projects/test_playbook 
 
 
-sudo ansible-playbook test-playbook.yml
+ansible-playbook test-playbook.yml
 
 echo "playbook executed"
 
